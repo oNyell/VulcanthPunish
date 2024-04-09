@@ -1,0 +1,22 @@
+database:
+  # Tipos de bancos de dados disponíveis atualmente: MongoDB, MySQL
+  tipo: 'MySQL'
+  mysql:
+    # Utilizar Hikari
+    hikari: false
+    # Utilizar driver da MariaDB
+    mariadb: false
+    # Host para acessar o MySQL
+    host: '142.44.135.160'
+    # Porta para acessar o MySQL
+    porta: '3306'
+    # Nome do banco de dados no MySQL
+    nome: 's26_core'
+    # Usuário de acesso ao MySQL
+    usuario: 'u26_hTYGD2oMY1'
+    # Senha de acesso ao MySQL
+    senha: 'dIIljTIsN!1^xXhCpDQWJ8At'
+  mongodb:
+    # URL de acesso ao MongoDB
+    # https://docs.mongodb.com/manual/reference/connection-string/
+    url: ''

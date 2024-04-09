@@ -1,0 +1,6 @@
+name: VulcanthPunish
+version: 1.0
+main: com.vulcanth.punish.Main
+author: Nyel
+depend:
+  - VulcanthCore
